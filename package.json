@@ -1,0 +1,19 @@
+{
+  "name": "ajs3_1_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glazyrin34/ajs3_1_package.git"
+  },
+  "author": "Glazyrin Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glazyrin34/ajs3_1_package/issues"
+  },
+  "homepage": "https://github.com/Glazyrin34/ajs3_1_package#readme"
+}
